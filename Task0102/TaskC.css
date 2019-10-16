@@ -1,0 +1,20 @@
+p, h1 {
+    font-style: italic,normal;
+    font-size: 23px;
+}
+
+table {
+	background: peachpuff;
+    border:3px   ;
+    border-color:green;
+    border-style:solid;
+    
+}
+
+text {
+    text-decoration: none;
+}
+
+ul {
+    list-style:lower-greek;
+}

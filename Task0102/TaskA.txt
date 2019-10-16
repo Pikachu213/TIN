@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="index.css" />
+    <title>Assignment A</title>
+</head>
+
+<body>
+
+<h1>This is the first task`s header</h1>
+
+<p>My first paragraph.</p>
+
+<ol>
+    <li>Tex1</li>
+        <li>Text2</li>
+        <li>
+            Pietias ultimate studing guide
+            <ul>
+                <li>
+                    shit at JAVA
+                </li>
+                <li>
+                    shit at JAVA+Script
+                </li>
+                <li>
+                    OKAY FOLKS
+                </li>
+                <li>
+                    Drink Monster
+                </li>
+                <li>
+                    Play games during classes
+                </li>
+                <li>
+                    ???????????
+                </li>
+                <li>
+                    actually getting paid
+                </li>
+            </ul>
+        </li>
+    </ol>
+
+<table>
+	<tr class = "row1">
+		<th>Monday</th>
+		<th>Tuesday</th>
+		<th>Wednesday</th>
+		<th>Thursday</th>
+		<th>Friday</th>
+	</tr>
+	<tr class = "row2">
+		<td>4</td>
+		<td>7</td>
+		<td>1</td>
+		<td>5</td>
+		<td>2</td>
+	</tr>
+	<tr class = "row3">
+		<td>S</td>
+		<td>F</td>
+		<td>Y</td>
+		<td>X</td>
+		<td>W</td>
+	</tr>
+	<tr class = "row4">
+		<td>r</td>
+		<td>w</td>
+		<td>u</td>
+		<td>r</td>
+		<td>g</td>
+	</tr>
+</table>
+
+<table>
+
+</table>
+
+</body>
+
+</html>

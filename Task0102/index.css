@@ -1,0 +1,17 @@
+* {
+	margin: 10;
+	padding: 10;
+	box-sizing: border-box;
+	background-color: #EAFAF1;
+}
+
+body{
+	font-family: Helvetica, Neue, Arial;
+}
+
+h1 {
+	color: rgba(40, 120, 70, 0.75);
+	font-size: 40 px;
+	margin-bottom: 20px;
+}
+
